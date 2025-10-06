@@ -1,0 +1,74 @@
+{
+  "bulkActions": {
+    "clearSelection": "清除选择",
+    "clearSelectionShortcut": "清除选择 (Escape)",
+    "countSelected_one": "",
+    "countSelected_other": "",
+    "selected": "已选择",
+    "selectedMessage_one": "",
+    "selectedMessage_other": "",
+    "toolbarLabel_one": "",
+    "toolbarLabel_other": ""
+  },
+  "columnHeader": {
+    "asc": "升序",
+    "desc": "降序",
+    "hide": "隐藏"
+  },
+  "comingSoon": {
+    "description": "此页面尚未创建。",
+    "stayTuned": "敬请期待！",
+    "title": "即将推出！"
+  },
+  "commandMenu": {
+    "noResults": "未找到结果。",
+    "placeholder": "输入命令或搜索...",
+    "theme": "主题"
+  },
+  "configDrawer": {
+    "description": "调整外观和布局以适应您的偏好。",
+    "reset": "重置",
+    "resetAriaLabel": "重置所有设置为默认值",
+    "title": "主题设置"
+  },
+  "dataTable": {
+    "filter": "筛选...",
+    "reset": "重置",
+    "toggleColumns": "切换列",
+    "view": "视图"
+  },
+  "datePicker": {
+    "placeholder": "选择日期"
+  },
+  "dialog": {
+    "cancel": "取消",
+    "continue": "继续"
+  },
+  "language": "语言",
+  "learnMore": {
+    "label": "了解更多"
+  },
+  "pagination": {
+    "goToFirstPage": "跳转到第一页",
+    "goToLastPage": "跳转到最后一页",
+    "goToNextPage": "跳转到下一页",
+    "goToPage": "跳转到第 {{pageNumber}} 页",
+    "goToPreviousPage": "跳转到上一页",
+    "pageInfo": "第 {{currentPage}} 页 / 共 {{totalPages}} 页",
+    "rowsPerPage": "每页行数"
+  },
+  "search": {
+    "placeholder": "搜索"
+  },
+  "signOut": {
+    "confirm": "退出登录",
+    "description": "您确定要退出登录吗？您需要重新登录才能访问您的账户。",
+    "title": "退出登录"
+  },
+  "theme": {
+    "dark": "深色",
+    "light": "浅色",
+    "system": "系统",
+    "toggle": "切换主题"
+  }
+}

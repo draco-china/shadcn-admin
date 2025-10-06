@@ -1,0 +1,52 @@
+{
+  "errors": {
+    "badGateway": "Bad Gateway",
+    "badRequest": "Bad Request",
+    "forbidden": "Forbidden",
+    "notFound": "Not Found",
+    "serverError": "Internal Server Error",
+    "serviceUnavailable": "Service Unavailable",
+    "unauthorized": "Unauthorized",
+    "unknownError": "Unknown Error",
+    "validationError": "Validation Error"
+  },
+  "nav": {
+    "account": "Account",
+    "appearance": "Appearance",
+    "apps": "Apps",
+    "auth": "Auth",
+    "chats": "Chats",
+    "customers": "Customers",
+    "dashboard": "Dashboard",
+    "display": "Display",
+    "errors": "Errors",
+    "forbidden": "Forbidden",
+    "forgotPassword": "Forgot Password",
+    "general": "General",
+    "helpCenter": "Help Center",
+    "internalServerError": "Internal Server Error",
+    "maintenanceError": "Maintenance Error",
+    "notFound": "Not Found",
+    "notifications": "Notifications",
+    "other": "Other",
+    "otp": "OTP",
+    "overview": "Overview",
+    "pages": "Pages",
+    "products": "Products",
+    "profile": "Profile",
+    "settings": "Settings",
+    "signIn": "Sign In",
+    "signIn2Col": "Sign In (2 Col)",
+    "signUp": "Sign Up",
+    "tasks": "Tasks",
+    "unauthorized": "Unauthorized",
+    "users": "Users"
+  },
+  "user": {
+    "account": "Account",
+    "billing": "Billing",
+    "notifications": "Notifications",
+    "signOut": "Sign out",
+    "upgradeToPro": "Upgrade to Pro"
+  }
+}

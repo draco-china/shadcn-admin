@@ -1,0 +1,74 @@
+{
+  "bulkActions": {
+    "clearSelection": "Clear selection",
+    "clearSelectionShortcut": "Clear selection (Escape)",
+    "countSelected_one": "bulkActions.countSelected",
+    "countSelected_other": "bulkActions.countSelected",
+    "selected": "selected",
+    "selectedMessage_one": "bulkActions.selectedMessage",
+    "selectedMessage_other": "bulkActions.selectedMessage",
+    "toolbarLabel_one": "bulkActions.toolbarLabel",
+    "toolbarLabel_other": "bulkActions.toolbarLabel"
+  },
+  "columnHeader": {
+    "asc": "Asc",
+    "desc": "Desc",
+    "hide": "Hide"
+  },
+  "comingSoon": {
+    "description": "This page has not been created yet.",
+    "stayTuned": "Stay tuned though!",
+    "title": "Coming Soon!"
+  },
+  "commandMenu": {
+    "noResults": "No results found.",
+    "placeholder": "Type a command or search...",
+    "theme": "Theme"
+  },
+  "configDrawer": {
+    "description": "Adjust the appearance and layout to suit your preferences.",
+    "reset": "Reset",
+    "resetAriaLabel": "Reset all settings to default values",
+    "title": "Theme Settings"
+  },
+  "dataTable": {
+    "filter": "Filter...",
+    "reset": "Reset",
+    "toggleColumns": "Toggle columns",
+    "view": "View"
+  },
+  "datePicker": {
+    "placeholder": "Pick a date"
+  },
+  "dialog": {
+    "cancel": "Cancel",
+    "continue": "Continue"
+  },
+  "language": "Language",
+  "learnMore": {
+    "label": "Learn more"
+  },
+  "pagination": {
+    "goToFirstPage": "Go to first page",
+    "goToLastPage": "Go to last page",
+    "goToNextPage": "Go to next page",
+    "goToPage": "Go to page {{pageNumber}}",
+    "goToPreviousPage": "Go to previous page",
+    "pageInfo": "Page {{currentPage}} of {{totalPages}}",
+    "rowsPerPage": "Rows per page"
+  },
+  "search": {
+    "placeholder": "Search"
+  },
+  "signOut": {
+    "confirm": "Sign out",
+    "description": "Are you sure you want to sign out? You will need to sign in again to access your account.",
+    "title": "Sign out"
+  },
+  "theme": {
+    "dark": "Dark",
+    "light": "Light",
+    "system": "System",
+    "toggle": "Toggle theme"
+  }
+}

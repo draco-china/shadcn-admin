@@ -1,0 +1,16 @@
+{
+  "editor.codeActionsOnSave": {
+    "source.fixAll.biome": "explicit",
+    "source.organizeImports.biome": "explicit"
+  },
+  "editor.defaultFormatter": "biomejs.biome",
+  "editor.formatOnSave": true,
+  "explorer.fileNesting.enabled": true,
+  "explorer.fileNesting.patterns": {
+    "vite.config.ts": "*.ts, *.json, *.toml, *.lock, tsconfig*.json, .*, index.html",
+    ".env": ".env.*",
+    "README.md": "README*.md, CHANGELOG.md, LICENSE, CONTRIBUTING.md, CODE_OF_CONDUCT.md"
+  },
+  "npm.packageManager": "bun",
+  "npm.scriptExplorerExclude": ["prepare", "lint", "format"]
+}

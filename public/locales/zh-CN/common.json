@@ -1,0 +1,52 @@
+{
+  "errors": {
+    "badGateway": "网关错误",
+    "badRequest": "错误请求",
+    "forbidden":  "禁止访问",
+    "notFound": "未找到",
+    "serverError": "服务器错误",
+    "serviceUnavailable": "服务不可用",
+    "unauthorized": "未授权",
+    "unknownError": "未知错误",
+    "validationError": "验证错误"
+  },
+  "nav": {
+    "account": "账户",
+    "appearance": "外观",
+    "apps": "应用",
+    "auth": "认证",
+    "chats": "聊天",
+    "customers": "客户",
+    "dashboard": "仪表板",
+    "display": "显示",
+    "errors": "错误",
+    "forbidden": "禁止访问",
+    "forgotPassword": "忘记密码",
+    "general": "常规",
+    "helpCenter": "帮助中心",
+    "internalServerError": "内部服务器错误",
+    "maintenanceError": "维护错误",
+    "notFound": "未找到",
+    "notifications": "通知",
+    "other": "其他",
+    "otp": "验证码",
+    "overview": "概览",
+    "pages": "页面",
+    "products": "产品",
+    "profile": "个人资料",
+    "settings": "设置",
+    "signIn": "登录",
+    "signIn2Col": "登录（双列）",
+    "signUp": "注册",
+    "tasks": "任务",
+    "unauthorized": "未授权",
+    "users": "用户"
+  },
+  "user": {
+    "account": "账户",
+    "billing": "账单",
+    "notifications": "通知",
+    "signOut": "登出",
+    "upgradeToPro": "升级到专业版"
+  }
+}

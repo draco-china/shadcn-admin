@@ -1,0 +1,25 @@
+{
+  "backToHome": "返回首页",
+  "forbidden": {
+    "description": "您没有查看此资源的必要权限。",
+    "title": "禁止访问"
+  },
+  "general": {
+    "description": "我们为给您带来的不便深表歉意。请稍后再试。",
+    "title": "哎呀！出现了一些问题 :)"
+  },
+  "goBack": "返回",
+  "learnMore": "了解更多",
+  "maintenance": {
+    "description": "网站目前不可用。我们将在稍后重新上线。",
+    "title": "网站正在维护中！"
+  },
+  "notFound": {
+    "description": "您要查找的页面不存在或可能已被删除。",
+    "title": "哎呀！找不到页面！"
+  },
+  "unauthorized": {
+    "description": "请使用适当的凭据登录以访问此资源。",
+    "title": "未授权访问"
+  }
+}

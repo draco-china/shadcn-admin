@@ -1,0 +1,9 @@
+{
+  "schemas": [
+    {
+      "name": "Petstore API",
+      "path": "https://raw.githubusercontent.com/swagger-api/swagger-petstore/refs/heads/master/src/main/resources/openapi.yaml",
+      "output": "./src/services/api/types.ts"
+    }
+  ]
+}
